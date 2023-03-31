@@ -5,6 +5,7 @@ export default function Button() {
   return (
     <div>
       <button onClick={HelloWorld}>Click me!</button>
+      <span>TEST</span>
     </div>
   );
 }
